@@ -1,0 +1,11 @@
+{
+    "name" : "MochiBound",
+    "version" : "Beta v. Upbeat Giraffe",
+    "path" : ".",
+    "dependencies" : [],
+    "metadata" : {
+      "author" : "third_yx",
+      "version" : "0.01",
+      "description" : "add Mochi."
+    }
+}

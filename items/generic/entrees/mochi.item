@@ -1,0 +1,14 @@
+{
+  "itemName" : "mochi",
+  "rarity" : "Common",
+  "inventoryIcon" : "mochi.png",
+  "description" : "regular mochi.",
+  "shortdescription" : "mochi",
+  "handPosition" : [0, 0],
+  "effects" : [ [
+    {
+        "effect" : "foodheal25",
+        "duration" : 60
+    }
+  ] ]
+}

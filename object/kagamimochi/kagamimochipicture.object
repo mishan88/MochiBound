@@ -1,0 +1,28 @@
+{
+  "objectName" : "kagamimochipicture",
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Celebrating mochi printing",
+  "shortdescription" : "kagamimochi in a picture",
+  "race" : "generic",
+  "category" : "light",
+
+  "apexDescription" : "?",
+  "avianDescription" : "It is difficult for me to eat.",
+  "floranDescription" : "I should eat mooooooooooochi",
+  "glitchDescription" : "mochi?",
+  "humanDescription" : "Oh! Wonderful Kagami Mochi Picture.",
+  "hylotlDescription" : "not mochi-mochi",
+
+  "inventoryIcon" : "kagamimochipictureicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "kagamimochipicture.png",
+      "imagePosition" : [0, 0],
+      "frames" :1,
+      "animationCycle" : 0.5,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background"]
+    }
+  ]
+}

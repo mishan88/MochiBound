@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 3 },
+    { "item" : "petalyellow", "count" : 1 },
+    { "item" : "petalblue", "count" : 1 }
+  ],
+  "output" : { "item" : "yomogimochi", "count" : 1 },
+  "groups" : [ "kitchen", "consumables", "entree" ]
+}

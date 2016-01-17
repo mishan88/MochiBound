@@ -1,0 +1,21 @@
+{
+  "itemName" : "bakedmochi",
+  "rarity" : "Common",
+  "price" : 20,
+  "inventoryIcon" : "bakedmochi.png",
+  "description" : "Baked Mochi is good.",
+  "shortdescription" : "Baked Mochi",
+  "effects" : [ [
+    {
+        "effect" : "foodheal95",
+        "duration" : 60
+    },
+    {
+        "effect" : "wellfed",
+        "duration" : 60
+    }
+  ] ],
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

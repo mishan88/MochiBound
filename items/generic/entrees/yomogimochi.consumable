@@ -1,0 +1,14 @@
+{
+  "itemName" : "yomogimochi",
+  "rarity" : "Common",
+  "inventoryIcon" : "yomogimochi.png",
+  "description" : "yomogi mochi.",
+  "shortdescription" : "yomogimochi",
+  "handPosition" : [0, 0],
+  "effects" : [ [
+    {
+        "effect" : "foodheal25",
+        "duration" : 80
+    }
+  ] ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 3 }
+  ],
+  "output" : { "item" : "mochi", "count" : 1 },
+  "groups" : [ "kitchen", "consumables", "entree" ]
+}
