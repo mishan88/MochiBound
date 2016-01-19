@@ -1,0 +1,81 @@
+{
+  "objectName" : "mochistove",
+  "colonyTags" : ["cooking","light"],
+  "rarity" : "Common",
+  "description" : "Scorch mochi-bounds!!",
+  "shortdescription" : "Mochi Stove",
+  "subtitle" : "Scorch mochi-bounds!!",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 70,
+  "objectType" : "container",
+
+  "maximumLiquidLevel" : 0.2,
+
+  "lightColor" : [179, 149, 107],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.85,
+  "flickerMaxIntensity" : 0.9,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "particleEmitter" : {
+    "emissionRate" : 1.0,
+    "emissionVariance" : 0.5,
+
+    "particle" : {
+      "type" : "ember",
+      "size" : 1.0,
+      "color" : [255, 100, 0, 255],
+      "light" : [150, 50, 50],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, 5.0],
+      "finalVelocity" : [0.0, -50.0],
+      "approach" : [0, 20],
+      "timeToLive" : 0.6,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [1.5, 2.0]
+    }
+  },
+
+  "inventoryIcon" : "mochistoveicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "mochistove.png:<color>.<frame>", "fullbright" : true }, { "image" : "mochistovelit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "flipImages" : true,
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "mochistove.png:<color>.<frame>", "fullbright" : true }, { "image" : "mochistovelit.png:<color>.<frame>" } ],
+      "direction" : "right",
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/campfire.ogg",
+
+  "statusEffects" : [ ],
+
+  "recipeGroup" : "cooking",
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/campfire.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}
