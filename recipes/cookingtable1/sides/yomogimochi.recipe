@@ -5,5 +5,5 @@
     { "item" : "petalblue", "count" : 1 }
   ],
   "output" : { "item" : "yomogimochi", "count" : 1 },
-  "groups" : [ "kitchen", "consumables", "entree" ]
+  "groups" : [ "craftingfood", "mains" ]
 }

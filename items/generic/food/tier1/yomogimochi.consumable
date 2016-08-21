@@ -1,0 +1,18 @@
+{
+  "itemName" : "yomogimochi",
+  "rarity" : "Common",
+  "price" : 30,
+  "category" : "preparedFood",
+  "inventoryIcon" : "yomogimochi.png",
+  "description" : "yomogi mochi.",
+  "shortdescription" : "yomogimochi",
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

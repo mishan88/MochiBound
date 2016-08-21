@@ -3,5 +3,5 @@
     { "item" : "mochi", "count" : 1 }
   ],
   "output" : { "item" : "bakedmochi", "count" : 1 },
-  "groups" : [ "cooking", "consumables", "all" ]
+  "groups" : [ "campfire", "consumables", "all" ]
 }

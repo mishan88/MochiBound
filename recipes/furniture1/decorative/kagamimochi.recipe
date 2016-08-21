@@ -3,5 +3,5 @@
     { "item" : "money", "count" : 100 }
   ],
   "output" : { "item" : "kagamimochipicture", "count" : 1 },
-  "groups" : [ "plain", "objects", "all" ]
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
 }
