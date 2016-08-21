@@ -9,9 +9,9 @@
   "foodValue" : 1,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
-  "maxStack" : 10,
+  "maxStack" : 1,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 0.1,
+  "rottingMultiplier" : 1.0,
   "blockingEffects" : [
     "wellfed"
   ]
