@@ -1,11 +1,11 @@
 {
   "itemName" : "yomogimochi",
   "rarity" : "Common",
-  "price" : 30,
+  "price" : 60,
   "category" : "preparedFood",
   "inventoryIcon" : "yomogimochi.png",
   "description" : "yomogi mochi.",
-  "shortdescription" : "yomogimochi",
+  "shortdescription" : "Yomogi mochi",
   "foodValue" : 20,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
