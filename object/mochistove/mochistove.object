@@ -2,15 +2,36 @@
   "objectName" : "mochistove",
   "colonyTags" : ["cooking","light"],
   "rarity" : "Common",
-  "description" : "Scorch mochi-bounds!!",
-  "shortdescription" : "Mochi Stove",
-  "subtitle" : "Scorch mochi-bounds!!",
-  "race" : "generic",
   "category" : "crafting",
   "price" : 70,
-  "objectType" : "container",
+  "printable" : true,
+  "description" : "Scorch mochi-bounds!!",
+  "shortdescription" : "Mochi Stove",
+  "race" : "generic",
 
   "maximumLiquidLevel" : 0.2,
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingcampfire.config",
+    "filter" : [ "campfire" ],
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Mochi Stove",
+        "subtitle" : "Scorch mochi-bounds!!"
+      }
+    }
+  },
+
+  "apexDescription" : "It is the most sutable for baking mochi.",
+  "avianDescription" : "Is this open fire suitable for roasting mochi I wonder?",
+  "floranDescription" : "Floran like mochi.",
+  "glitchDescription" : "I want to eat mochi.",
+  "humanDescription" : "A nice mochi stove! Some human debate with mochi shape.",
+  "hylotlDescription" : "Why don't you use electoric mochi stove?",
+  "novakidDescription":  "Mochi! Mochi!",
+
+  "statusEffect":[],
 
   "lightColor" : [179, 149, 107],
 
@@ -68,14 +89,6 @@
   ],
 
   "soundEffect" : "/sfx/objects/campfire.ogg",
-
-  "statusEffects" : [ ],
-
-  "recipeGroup" : "cooking",
-  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
-  "slotCount" : 2,
-  "uiConfig" : "/interface/objectcrafting/campfire.config",
-  "frameCooldown" : 5,
-  "autoCloseCooldown" : 3600
+  "soundEffectRangeMultiplier" : 0.5
 
 }

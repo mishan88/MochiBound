@@ -4,5 +4,6 @@
     { "item" : "coalore", "count" : 1 }
   ],
   "output" : { "item" : "mochistove", "count" : 1 },
-  "groups" : [ "craftingtable", "tools", "objects", "all" ]
+  "duration" : 5,
+  "groups" : [ "inventorstable", "craftingstations", "all" ]
 }
