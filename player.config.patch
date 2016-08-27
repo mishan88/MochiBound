@@ -23,5 +23,10 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": { "item": "mochistove" }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value" : { "item" : "threecolordango" }
     }
 ]
