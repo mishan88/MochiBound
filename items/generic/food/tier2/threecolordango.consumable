@@ -9,7 +9,7 @@
   "effects" : [ [
     {
       "effect" : "runboostfood",
-      "duration" : "120"
+      "duration" : 120
     }
   ] ],
   "foodValue" : 50,
