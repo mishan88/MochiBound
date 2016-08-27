@@ -1,0 +1,24 @@
+{
+  "itemName" : "threecolordango",
+  "rarity" : "Common",
+  "price" : 200,
+  "category" : "preparedFood",
+  "inventoryIcon" : "threecolordango.png",
+  "description" : "Colorful Dango!",
+  "shortdescription" : "ThreeColorDango",
+  "effects" : [ [
+    {
+      "effect" : "runboostfood",
+      "duration" : "120"
+    }
+  ] ],
+  "foodValue" : 50,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
