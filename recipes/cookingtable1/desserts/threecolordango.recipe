@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "mochi", "count" : 1 },
+    { "item" : "rice", "count" : 3 },
     { "item" : "sugar", "count" : 1 },
     { "item" : "petalred", "count" : 1 },
     { "item" : "petalblue", "count" : 1 },
