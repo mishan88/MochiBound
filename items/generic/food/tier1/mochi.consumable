@@ -6,7 +6,7 @@
   "inventoryIcon" : "mochi.png",
   "description" : "Regular mochi. It is too hard to eat. You should bake or boil it.",
   "shortdescription" : "Mochi",
-  "foodValue" : 1,
+  "foodValue" : 10,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,
