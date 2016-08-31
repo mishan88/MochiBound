@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 666 },
+    { "item" : "goldenducky", "count" : 666 },
+    { "item" : "rawribmeat", "count" : 666}
+  ],
+  "output" : { "item" : "diefukumochi", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ]
+}

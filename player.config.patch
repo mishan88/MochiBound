@@ -1,32 +1,42 @@
 [
     {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": { "item": "mochi" }
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item": "mochi" }
     },
     {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": { "item": "yomogimochi" }
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item": "yomogimochi" }
     },
     {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": { "item": "bakedmochi" }
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item": "bakedmochi" }
     },
     {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": { "item": "kagamimochipicture" }
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item": "kagamimochipicture" }
     },
     {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": { "item": "mochistove" }
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item": "mochistove" }
     },
     {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value" : { "item" : "threecolordango" }
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item" : "threecolordango" }
+    },
+    {
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item" : "diefukumochi" }
+    },
+    {
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item" : "daifukumochi" }
     }
 ]

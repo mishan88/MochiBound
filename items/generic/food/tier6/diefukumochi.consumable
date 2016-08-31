@@ -1,0 +1,36 @@
+{
+  "itemName" : "diefukumochi",
+  "rarity" : "Legendary",
+  "price" : 1,
+  "category" : "preparedFood",
+  "inventoryIcon" : "diefukumochi.png",
+  "description" : "DANGER! IT IS NOT DaifukuMochi.",
+  "shortdescription" : "DiefukuMochi",
+  "effects" : [ [
+    {
+      "effect" : "burning",
+      "duration" : 2000
+    },
+    {
+      "effect" : "electrified",
+      "duration" : 2000
+    },
+    {
+      "effect" : "melting",
+      "duration" : 2000
+    },
+    {
+      "effect" : "weakpoison",
+      "duration" : 2000
+    }
+  ] ],
+  "foodValue" : 1,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 3.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
