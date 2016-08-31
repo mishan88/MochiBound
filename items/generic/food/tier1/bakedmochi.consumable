@@ -4,7 +4,7 @@
   "price" : 60,
   "category" : "preparedFood",
   "inventoryIcon" : "bakedmochi.png",
-  "description" : "Baked Mochi is good. You should eat with sugar-soysource!",
+  "description" : "Baked Mochi is good. You should eat with sugar-soysauce!",
   "shortdescription" : "Baked Mochi",
   "foodValue" : 20,
   "tooltipKind" : "food",
