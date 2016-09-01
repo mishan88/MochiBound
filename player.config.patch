@@ -38,5 +38,10 @@
       "op" : "add",
       "path" : "/defaultBlueprints/tier1/-",
       "value" : { "item" : "daifukumochi" }
+    },
+    {
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item" : "mochiicecream" }
     }
 ]
