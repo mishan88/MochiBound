@@ -1,0 +1,36 @@
+{
+  "objectName" : "woodenusu",
+  "colonyTags" : ["cooking"],
+  "printable" : false,
+  "price" : 100,
+  "rarity" : "Uncommon",
+  "category" : "crafting",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingfood.config",
+    "filter" : [ "craftingfood" ]
+  },
+  "description" : "Used to produce wholesome foods, especially Mochi.",
+  "shortdescription" : "^orange;Wooden Usu^white;",
+  "race" : "generic",
+  "apexDescription" : "I hate this. Our ancestor was crushed by this.",
+  "avianDescription" : "It is good for making mochi!",
+  "floranDescription" : "Floran prepare Mochi with bare handsss. But usu also usessful.",
+  "glitchDescription" : "I heard that big rabbit use this.",
+  "humanDescription" : "A mochi maker's table. A whole bunch of different implements for making food.",
+  "hylotlDescription" : "I heard that Usu, clab, bee and malon are close.",
+  "novakidDescription" : "I want Electoric Mochi Maker.",
+
+  "inventoryIcon" : "woodenusuicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "woodenusu.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  "npcToy" : {}
+}

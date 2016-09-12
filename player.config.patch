@@ -48,5 +48,10 @@
       "op" : "add",
       "path" : "/defaultBlueprints/tier1/-",
       "value" : { "item" : "bigusu" }
+    },
+    {
+      "op" : "add",
+      "path" : "/defaultBlueprints/tier1/-",
+      "value" : { "item" : "woodenusu" }
     }
 ]
